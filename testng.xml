@@ -1,0 +1,15 @@
+
+
+
+
+<suite name="OrangeHRMSuite">
+
+    <test name="OrangeHRMTest">
+
+        <classes>
+            <class name="tests.OrangeHRMTest"/>
+        </classes>
+
+    </test>
+
+</suite>
